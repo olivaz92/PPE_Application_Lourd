@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtGuiApplication2">
+        <file>Resources/image.jpg</file>
+        <file>template.html</file>
+    </qresource>
+</RCC>
